@@ -14,3 +14,6 @@ module.exports = {
     }
   },
 };
+
+//this file just to see if they are logged in if not redirect to main page
+//passport and session is handling the .isAuthenticated()
